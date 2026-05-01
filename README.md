@@ -171,7 +171,7 @@ These insights can help drive **data-driven strategies for long-term growth**.
 ---
 
 ## 📷 Visualizations
-(Add your charts screenshots here)
+(https://github.com/rocky12rana/Auto_sales_Analysis_project/tree/main/Assets)
 
 Example:
 ![Yearly Revenue](images/yearly_revenue.png)
